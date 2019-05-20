@@ -1,0 +1,25 @@
+.yblogo {
+  font-size: 20em;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  font-family: 'Cute Font', cursive;
+  letter-spacing: -.15em;
+  width: 100%;
+}
+
+.yblogo2 {
+  font-size: 5em;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  font-family: 'Meddon', cursive;
+  display: inline;
+}
+
+.yblogo3 {
+  font-size: 5em;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  font-family: 'Zeyada', cursive;
+  display: inline;
+  padding-top: 1em;
+}
